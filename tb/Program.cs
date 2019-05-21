@@ -39,6 +39,7 @@ namespace tb
             //Class1.r(url);
 
             //Console.ReadKey();
+
             List<string> urllist = new List<string>();
             foreach (string row in File.ReadLines(@"tb.txt"))
             {
