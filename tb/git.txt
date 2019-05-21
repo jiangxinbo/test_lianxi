@@ -1,0 +1,7 @@
+﻿git init
+git status                 #    查看状态
+git rm --cached *.html     #    从缓存中删除 以 .html 结尾的文件
+git add .	               #    .代表所有文件
+git commit    			   #	提交缓存内容到本地仓库
+git commit  -m  "我是备注" #	给提交的版本添加备注
+
