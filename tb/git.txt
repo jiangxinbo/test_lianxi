@@ -5,3 +5,12 @@ git add .	               #    .代表所有文件
 git commit    			   #	提交缓存内容到本地仓库
 git commit  -m  "我是备注" #	给提交的版本添加备注
 
+touch .gitignore           #   git 仓库根目录 创建   .gitignore 文件
+vim .gitignore             #   编辑如下：
+--------- .gitignore 文件内容 ---------------	#里面存储所有忽略文件和文件夹
+.vs
+tb.sln
+tb/bin
+tb/obj/Debug
+tb/obj/Release
+------------------------------
