@@ -1,0 +1,5 @@
+.vs
+tb.sln
+tb/bin
+tb/obj/Debug
+tb/obj/Release
