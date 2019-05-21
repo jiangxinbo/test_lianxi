@@ -34,11 +34,11 @@ namespace tb
 
         static void Main(string[] args)
         {
-            var url = @"http://pic1.win4000.com/wallpaper/c/58995e3288662.jpg";
-            url = @"http://auhdev-10054974.file.myqcloud.com/product/zfOeR651NxD9MEEFyUrVex5a.png";
-            Class1.r(url);
+            //var url = @"http://pic1.win4000.com/wallpaper/c/58995e3288662.jpg";
+            //url = @"http://auhdev-10054974.file.myqcloud.com/product/zfOeR651NxD9MEEFyUrVex5a.png";
+            //Class1.r(url);
 
-            Console.ReadKey();
+            //Console.ReadKey();
             List<string> urllist = new List<string>();
             foreach (string row in File.ReadLines(@"tb.txt"))
             {
