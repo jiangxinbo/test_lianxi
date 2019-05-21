@@ -35,3 +35,16 @@ C:\Users\jj\Desktop\tb\tb\obj\Debug\netcoreapp2.1\tb.AssemblyInfoInputs.cache
 C:\Users\jj\Desktop\tb\tb\obj\Debug\netcoreapp2.1\tb.AssemblyInfo.cs
 C:\Users\jj\Desktop\tb\tb\obj\Debug\netcoreapp2.1\tb.dll
 C:\Users\jj\Desktop\tb\tb\obj\Debug\netcoreapp2.1\tb.pdb
+C:\Users\jj\Desktop\gittest\tb\tb\bin\Debug\netcoreapp2.1\log4net.config
+C:\Users\jj\Desktop\gittest\tb\tb\bin\Debug\netcoreapp2.1\tb.txt
+C:\Users\jj\Desktop\gittest\tb\tb\bin\Debug\netcoreapp2.1\tb.deps.json
+C:\Users\jj\Desktop\gittest\tb\tb\bin\Debug\netcoreapp2.1\tb.runtimeconfig.json
+C:\Users\jj\Desktop\gittest\tb\tb\bin\Debug\netcoreapp2.1\tb.runtimeconfig.dev.json
+C:\Users\jj\Desktop\gittest\tb\tb\bin\Debug\netcoreapp2.1\tb.dll
+C:\Users\jj\Desktop\gittest\tb\tb\bin\Debug\netcoreapp2.1\tb.pdb
+C:\Users\jj\Desktop\gittest\tb\tb\obj\Debug\netcoreapp2.1\tb.csprojAssemblyReference.cache
+C:\Users\jj\Desktop\gittest\tb\tb\obj\Debug\netcoreapp2.1\tb.csproj.CoreCompileInputs.cache
+C:\Users\jj\Desktop\gittest\tb\tb\obj\Debug\netcoreapp2.1\tb.AssemblyInfoInputs.cache
+C:\Users\jj\Desktop\gittest\tb\tb\obj\Debug\netcoreapp2.1\tb.AssemblyInfo.cs
+C:\Users\jj\Desktop\gittest\tb\tb\obj\Debug\netcoreapp2.1\tb.dll
+C:\Users\jj\Desktop\gittest\tb\tb\obj\Debug\netcoreapp2.1\tb.pdb
