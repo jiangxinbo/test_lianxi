@@ -1,6 +1,5 @@
-.vs/
+.vs
 tb.sln
-tb/bin/
-tb/obj/Debug/
-tb/obj/Release/
-
+tb/bin
+tb/obj/Debug
+tb/obj/Release
